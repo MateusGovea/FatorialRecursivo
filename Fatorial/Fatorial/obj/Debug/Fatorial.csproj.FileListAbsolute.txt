@@ -1,0 +1,6 @@
+D:\Users\mateus.govea\Desktop\Treinamento C#\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+D:\Users\mateus.govea\Desktop\Treinamento C#\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+D:\Users\mateus.govea\Desktop\Treinamento C#\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.AssemblyReference.cache
+D:\Users\mateus.govea\Desktop\Treinamento C#\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+D:\Users\mateus.govea\Desktop\Treinamento C#\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+D:\Users\mateus.govea\Desktop\Treinamento C#\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
